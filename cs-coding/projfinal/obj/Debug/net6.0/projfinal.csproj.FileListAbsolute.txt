@@ -1,0 +1,15 @@
+C:\Users\Adm\cs-coding\projfinal\bin\Debug\net6.0\projfinal.exe
+C:\Users\Adm\cs-coding\projfinal\bin\Debug\net6.0\projfinal.deps.json
+C:\Users\Adm\cs-coding\projfinal\bin\Debug\net6.0\projfinal.runtimeconfig.json
+C:\Users\Adm\cs-coding\projfinal\bin\Debug\net6.0\projfinal.dll
+C:\Users\Adm\cs-coding\projfinal\bin\Debug\net6.0\projfinal.pdb
+C:\Users\Adm\cs-coding\projfinal\obj\Debug\net6.0\projfinal.csproj.AssemblyReference.cache
+C:\Users\Adm\cs-coding\projfinal\obj\Debug\net6.0\projfinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adm\cs-coding\projfinal\obj\Debug\net6.0\projfinal.AssemblyInfoInputs.cache
+C:\Users\Adm\cs-coding\projfinal\obj\Debug\net6.0\projfinal.AssemblyInfo.cs
+C:\Users\Adm\cs-coding\projfinal\obj\Debug\net6.0\projfinal.csproj.CoreCompileInputs.cache
+C:\Users\Adm\cs-coding\projfinal\obj\Debug\net6.0\projfinal.dll
+C:\Users\Adm\cs-coding\projfinal\obj\Debug\net6.0\refint\projfinal.dll
+C:\Users\Adm\cs-coding\projfinal\obj\Debug\net6.0\projfinal.pdb
+C:\Users\Adm\cs-coding\projfinal\obj\Debug\net6.0\projfinal.genruntimeconfig.cache
+C:\Users\Adm\cs-coding\projfinal\obj\Debug\net6.0\ref\projfinal.dll
